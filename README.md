@@ -4,10 +4,6 @@ Perkenalkan nama saya **Muhammad Hidayat Nurwahid**.<br>
 
 Saya seorang **Mahasiswa Informatika** di Universitas Pembangunan Nasional "Veteran" Jawa Timur.<br>
 
-Saya memiliki mintadi bidang IT dengan dibekali [sertifikasi dari Dicoding](https://www.dicoding.com/certificates/JMZV3RREQPN9).<br>
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/mhnurwahid/)ku ya.
-
 <p align="left">
 <a href="https://github.com/ddihaw">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ddihaw&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
